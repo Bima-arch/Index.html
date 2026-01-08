@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Web Pribadi & PKL</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(135deg, #43cea2, #185a9d);
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            background: white;
+            width: 90%;
+            max-width: 450px;
+            margin: 40px auto;
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+        }
+        h1, h2 {
+            text-align: center;
+            color: #333;
+        }
+        p {
+            color: #555;
+            line-height: 1.6;
+        }
+        .section {
+            margin-top: 20px;
+        }
+        footer {
+            text-align: center;
+            margin-top: 25px;
+            font-size: 13px;
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Web Pribadi</h1>
+    <p style="text-align:center;">Pelajar SMK</p>
+
+    <div class="section">
+        <h2>👤 Data Diri</h2>
+        <p><strong>Nama:</strong> Satria Bima Wibowo Hayuningrat</p>
+        <p><strong>Sekolah:</strong> SMK PASIRIAN</p>
+        <p><strong>Jurusan:</strong> TKJ</p>
+        <p><strong>Hobi:</strong> Belajar Jaringan</p>
+    </div>
+
+    <div class="section">
+        <h2>🏢 Tempat PKL</h2>
+        <p>Saya melaksanakan Praktik Kerja Lapangan (PKL) di VENUS COMPUTER <strong>..........................</strong>.</p>
+    </div>
+
+    <div class="section">
+        <h2>🛠️ Pengalaman PKL</h2>
+        <p>
+            Selama PKL, saya belajar banyak hal seperti instalasi jaringan,
+            konfigurasi perangkat, perbaikan komputer, serta bekerja secara
+            profesional di lingkungan kerja.
+        </p>
+    </div>
+
+    <div class="section">
+        <h2>💡 Kesan Saat PKL</h2>
+        <p>
+            Kesan saya selama PKL sangat baik karena mendapatkan pengalaman
+            baru, menambah wawasan, melatih kedisiplinan, dan meningkatkan
+            keterampilan di bidang Komputer dan Jaringan 
+        </p>
+    </div>
+
+    <footer>
+        © 2026 Web Pribadi PKL
+    </footer>
+</div>
+
+</body>
+</html>
